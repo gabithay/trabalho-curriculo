@@ -11,6 +11,7 @@ header{
     
 }
 body{
+    height: 100vh;
     margin: 0%;
 }
 .first1{
@@ -49,7 +50,7 @@ nav img{
 
 }
 .h1A{
-    font-size: 30px;
+    font-size: 50px;
 }
 li{
     font-size: 25px;
@@ -63,7 +64,7 @@ section{
     text-align: center;
 }
 .h1B{
-    font-size: 45px;
+    font-size: 55px;
     text-align: center ;
 }
 .p1{
